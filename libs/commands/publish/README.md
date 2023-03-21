@@ -46,8 +46,7 @@ be published.
 This is useful when a previous `lerna publish` failed to publish all packages to the registry.
 
 ## Options
-
-`lerna publish` supports all of the options provided by [`lerna version`](https://github.com/lerna/lerna/tree/main/commands/version#options) in addition to the following:
+`lerna publish` supports all of the options provided by [`lerna version`](https://github.com//lerna/lerna/tree/main/libs/commands/version#options) in addition to the following:
 
 - [`--canary`](#--canary)
 - [`--contents <dir>`](#--contents-dir)
